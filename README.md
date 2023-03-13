@@ -3,7 +3,7 @@ Two data frames of different kaggle cases of rain and weather in Brazil. The obj
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Weather-and-dieseses-data-frames-cleaning-for-health-policies**
+| :sparkles: Nome        | **Weather And Diesese DFs Cleaning for Health Policies**
 | :label: Tecnologias | Python, Apache Beam
 
 ![](/dengue2.jpeg#vitrinedev)
