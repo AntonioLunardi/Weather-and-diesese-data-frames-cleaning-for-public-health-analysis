@@ -5,7 +5,7 @@ The strategy used was to explicit in the pipeline the methods as much as possibl
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Weather And Diesese DFs Cleaning for Health Policies**
+| :sparkles: Nome        | **Weather cleaning for public health analysis**
 | :label: Tecnologias | Python, Apache Beam
 
 ![](/dengue2.jpeg#vitrinedev)
